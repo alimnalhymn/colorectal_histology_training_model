@@ -1,1 +1,1 @@
-# cars196_training_model
+# cars_pictures_training_model
