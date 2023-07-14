@@ -1,1 +1,1 @@
-# cars_pictures_training_model
+# colorectal_histology_training_model
